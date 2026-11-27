@@ -2,7 +2,7 @@
 
 <h2>Hi all! ✌️ 😎</h2>
 
-<img src="./benner.png" width="100%" alt="Suhrowardi Banner">
+<img src="./banner_suhrowardi.png" width="100%" alt="Suhrowardi Banner">
 
 </div>
 
