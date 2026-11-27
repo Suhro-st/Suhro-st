@@ -80,9 +80,6 @@
 <div align="center">
 
 **Thanks for visiting my profile guys! **
-
-*Keep Learning, Keep Building, Keep Growing.*
-
 </div>
 ---
 
